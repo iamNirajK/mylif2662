@@ -1,0 +1,6 @@
+{
+  "name": "JIYA – Personal AI Life Assistant",
+  "description": "Your Life. Your Assistant. Your Intelligence. Intelligent personal productivity and life-management platform powered by OpenRouter AI, Real-Time Voice, and Google Workspace.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
